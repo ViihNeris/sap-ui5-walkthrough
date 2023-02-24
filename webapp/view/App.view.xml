@@ -16,6 +16,7 @@
                     </headerContent>
                     <content>
                         <mvc:XMLView viewName="sap.ui.demo.walkthrough.view.HelloPanel" />
+                        <mvc:XMLView viewName="sap.ui.demo.walkthrough.view.InvoicesList" />
                     </content>
                 </Page>
             </pages>
