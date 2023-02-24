@@ -7,12 +7,17 @@
         headerText="{i18n>invoiceListTitle}"
         class="sapUiResponsiveMargin"
         width="auto"
-        items="{invoice>/Invoices}">
+        items="{
+            path: 'invoice>/Invoices',
+            sorter: {
+                path: 'ProductName'
+            }
+    }">
         <headerToolbar>
-            <Toolbar >
-                <Title text="{i18n>invoiceListTitle}"/>
-                    <ToolbarSpacer />
-                    <SearchField width="50%" search=".onFilterInvoices" />
+            <Toolbar>
+                <Title text="{i18n>invoiceListTitle}" />
+                <ToolbarSpacer />
+                <SearchField width="50%" search=".onFilterInvoices" />
             </Toolbar>
         </headerToolbar>
         <items>
