@@ -34,7 +34,7 @@
                     formatOptions: {
                         style: 'long',
                         source: {
-                            pattern: 'yyyy'-MM=ddTHH:mm:ss'
+                            pattern: 'yyyy-MM-ddTHH:mm:ss'
                         }
                     }
                 }"   />

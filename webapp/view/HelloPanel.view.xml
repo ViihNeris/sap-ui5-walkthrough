@@ -14,7 +14,8 @@
                 icon="sap-icon://world"
                 text="{i18n>openDialogButtonText}"
                 press=".onOpenDialog"
-                class="sapUiSmallMarginEnd sapUiVisibleIOnlyDesktop" />
+                class="sapUiSmallMarginEnd sapUiVisibleIOnlyDesktop"
+                accessibleRole="Region" />
             <Button
                 text="{i18n>showHelloButtonText}"
                 press=".onShowHello"
