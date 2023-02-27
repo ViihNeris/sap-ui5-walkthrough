@@ -40,19 +40,19 @@ sap.ui.define(
       // Assert
       assert.strictEqual(
         fnIsolatedFormatter("A"),
-        "(New)",
+        "New",
         "The long text for status A is correct"
       );
 
       assert.strictEqual(
         fnIsolatedFormatter("B"),
-        "(In Progress)",
+        "In Progress",
         "The long text for status B is correct"
       );
 
       assert.strictEqual(
         fnIsolatedFormatter("C"),
-        "(Done)",
+        "Done",
         "The long text for status C is correct"
       );
 
