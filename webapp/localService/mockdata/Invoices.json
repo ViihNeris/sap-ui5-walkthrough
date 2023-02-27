@@ -1,6 +1,6 @@
 [
   {
-    "ProductName": "Pineapple",
+    "ProductName": "Abacaxi",
     "Quantity": 21,
     "ExtendedPrice": 87.2,
     "ShipperName": "Fun Inc.",
@@ -8,7 +8,7 @@
     "Status": "A"
   },
   {
-    "ProductName": "Milk",
+    "ProductName": "Leite",
     "Quantity": 4,
     "ExtendedPrice": 9.99999,
     "ShipperName": "ACME",
@@ -16,7 +16,7 @@
     "Status": "B"
   },
   {
-    "ProductName": "Canned Beans",
+    "ProductName": "Feijão Enlatado",
     "Quantity": 3,
     "ExtendedPrice": 6.85,
     "ShipperName": "ACME",
@@ -24,7 +24,7 @@
     "Status": "B"
   },
   {
-    "ProductName": "Salad",
+    "ProductName": "Salada",
     "Quantity": 2,
     "ExtendedPrice": 8.8,
     "ShipperName": "ACME",
@@ -32,7 +32,7 @@
     "Status": "C"
   },
   {
-    "ProductName": "Bread",
+    "ProductName": "Pão",
     "Quantity": 1,
     "ExtendedPrice": 2.71212,
     "ShipperName": "Fun Inc.",
