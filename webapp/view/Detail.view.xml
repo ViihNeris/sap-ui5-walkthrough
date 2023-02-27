@@ -11,6 +11,6 @@
         <ObjectHeader
             intro="{invoice>ShipperName}"
             title="{invoice>ProductName}" />
-        <wt:ProductRating id="rating" class="sapUiSmallMarginBeginEnd"></wt:ProductRating>
+        <wt:ProductRating id="rating" class="sapUiSmallMarginBeginEnd" change=".onRatingChange"></wt:ProductRating>
     </Page>
 </mvc:View>
