@@ -28,10 +28,10 @@
     }">
             <columns>
                 <Column
-                    hAlign="End"
+                    hAlign="Center"
                     minScreenWidth="Small"
                     demandPopin="true"
-                    width="4em">
+                    width="5em">
                     <Text text="{i18n>columnQuantity}" />
                 </Column>
                 <Column>
