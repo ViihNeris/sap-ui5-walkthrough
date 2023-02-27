@@ -100,24 +100,24 @@
       },
       "routes": [
         {
-            "pattern": "",
-            "name": "overview",
-            "target": "overview"
+          "pattern": "",
+          "name": "overview",
+          "target": "overview"
         },
         {
-            "pattern": "detail",
-            "name": "detail",
-            "target": "detail"
+          "pattern": "detail/{invoicePath}",
+          "name": "detail",
+          "target": "detail"
         }
       ],
       "targets": {
         "overview": {
-            "viewId": "overview",
-            "viewName": "Overview"
+          "viewId": "overview",
+          "viewName": "Overview"
         },
         "detail": {
-            "viewId": "detail",
-            "viewName": "Detail"
+          "viewId": "detail",
+          "viewName": "Detail"
         }
       }
     },
