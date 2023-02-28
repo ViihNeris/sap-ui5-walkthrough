@@ -1,6 +1,13 @@
 # SAP UI5 🔵
 Projeto básico de Visualização de Invoices, desenvolvido em SAP UI5 afim de firmar conhecimento no mesmo! 🖥🟦
 
+<br>
+
+# O Projeto 🖊
+Leia a seguir os recursos utilizados neste projeto e suas respectivas implantações.
+
+<br>
+
 ## Hello Panel 🗨
 
 No "Hello Panel" é possível visualizar as diferentes formas de comunicar uma informação ao usuário, sendo as desenvolvidas neste projeto o "Pop-up" e o "MessageToast".
