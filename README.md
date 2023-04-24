@@ -59,6 +59,7 @@ Caso queira obter uma imagem mais demonstrativa do projeto, veja o vídeo abaixo
 
 ## Pesquisas 🕵🏻‍♀️
 - Documentação SAP:
+  - https://ui5.sap.com/#/topic/3da5f4be63264db99f2e5b04c5e853db
   - https://sapui5.hana.ondemand.com
   - https://help.sap.com/docs/ABAP_PLATFORM_NEW/468a97775123488ab3345a0c48cadd8f/a110f762148a4933a33d30751a37a743.html?locale=en-US
   - https://sap.github.io/ui5-tooling/stable/pages/ESSupport/#javascript-modules
